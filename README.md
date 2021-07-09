@@ -2,23 +2,30 @@
 
 #### About me
 
-* Unordered sub-list. 
-* Unordered list can use asterisks
+* I’m am currently working on my own small project.
+* I’m currently learning Kotlin.
+* Fun fact: I started programming because I didn't like the standard notes on a smartphone.
 
 ***
 
-#### Where to find me
+#### My projects
 
-#### Feel free to contact me 😋
+* [AndroidProjectCitizens](https://github.com/Loskon/AndroidProjectCitizens)
 
-[title](https://www.example.com)
+***
+
+#### Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loskon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+***
+
+#### Feel free to contact me
+
+* [Telegram](https://t.me/loskon)
+* [Email](mailto:andreyrochev@yandex.ru)
 
 
 <!--
-**Loskon/Loskon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,11 +33,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I started programming because I didn't like the standard notes on a smartphone
 -->
-
-
-
-#### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loskon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
