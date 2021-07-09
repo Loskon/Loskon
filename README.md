@@ -4,7 +4,7 @@
 
 * I’m am currently working on my own small project.
 * I’m currently learning Kotlin.
-* Fun fact: I started programming because I didn't like the standard notes on a smartphone.
+* Fun fact: I started programming because I didn't like the standard notes app on a smartphone.
 
 ***
 
