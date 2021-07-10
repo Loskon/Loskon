@@ -10,7 +10,7 @@
 
 #### My projects
 
-* [AndroidProjectCitizens](https://github.com/Loskon/AndroidProjectCitizens)
+* [Citizens](https://github.com/Loskon/AndroidProjectCitizens)
 
 ***
 
