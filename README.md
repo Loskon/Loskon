@@ -1,25 +1,27 @@
-<h2 align="center" id="heading">Hello! I'm Andrey, android developer.</h2> 
+### Всем привет!
 
-#### About me
+Меня зовут Андрей и я являюсь android разработчиком.
+***
 
-* I’m am currently working on my own small project.
-* I’m currently learning Kotlin.
-* Fun fact: I started programming because I didn't like the standard notes app on a smartphone.
+#### Мои проекты
+
+* [Citizens] - выполнено в качестве тестового задания.
+* [Notes mini] - собственный проект.
+
+[Citizens]: https://github.com/Loskon/android-citizens
+[Notes mini]: https://github.com/Loskon/android-notes-mini
+
+С полным описанием тестового задания можно ознакомиться по данной [ссылке].
+
+[ссылке]: https://drive.google.com/file/d/1GgAKOxKFG26vKMeAWZ4Lyar0gLhgETOC/view?usp=sharing
 
 ***
 
-#### Projects
-
-* [Citizens](https://github.com/Loskon/AndroidProjectCitizens)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loskon&layout=compact)](https://github.com/Loskon/Loskon)
 
 ***
 
-#### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loskon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-***
-
-#### Feel free to contact me
+#### Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/loskon)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreyrochev23@gmail.com)
