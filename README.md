@@ -5,7 +5,7 @@
 
 #### Мои проекты
 
-* [Citizens] - выполнено в качестве тестового задания.
+* [Citizens] - проект, выполненный в качестве тестового задания.
 * [Notes mini] - собственный проект.
 
 [Citizens]: https://github.com/Loskon/android-citizens
