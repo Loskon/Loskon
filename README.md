@@ -11,10 +11,6 @@
 [Citizens]: https://github.com/Loskon/android-citizens
 [Notes mini]: https://github.com/Loskon/android-notes-mini
 
-С полным описанием тестового задания можно ознакомиться по данной [ссылке].
-
-[ссылке]: https://drive.google.com/file/d/1GgAKOxKFG26vKMeAWZ4Lyar0gLhgETOC/view?usp=sharing
-
 ***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loskon&layout=compact)](https://github.com/Loskon/Loskon)
