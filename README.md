@@ -4,12 +4,11 @@
 ***
 
 #### Мои проекты
-
+* [Notes Mini] - собственный небольшой проект.
 * [Citizens] - проект, выполненный в качестве тестового задания.
-* [Notes Mini] - собственный проект.
 
-[Citizens]: https://github.com/Loskon/android-citizens
 [Notes mini]: https://github.com/Loskon/android-notes-mini
+[Citizens]: https://github.com/Loskon/android-citizens
 
 ***
 
