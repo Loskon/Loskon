@@ -12,7 +12,7 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loskon&layout=compact)](https://github.com/Loskon/Loskon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loskon)](https://github.com/Loskon/Loskon)
 
 ***
 
