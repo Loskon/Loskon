@@ -6,9 +6,11 @@
 #### Мои проекты
 * [Notes Mini] - собственный небольшой проект.
 * [Citizens] - проект, выполненный в качестве тестового задания.
+* [Dictaphone] - еще один проект, выполненный в качестве тестового задания.
 
 [Notes mini]: https://github.com/Loskon/android-notes-mini
 [Citizens]: https://github.com/Loskon/android-citizens
+[Dictaphone]: https://github.com/Loskon/android-dictaphone
 
 ***
 
