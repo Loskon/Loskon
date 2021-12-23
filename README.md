@@ -3,12 +3,16 @@
 Меня зовут Андрей. Я занимаюсь разработкой приложений под Android.
 ***
 
-#### Мои проекты
-* [Notes Mini] - собственный небольшой проект.
-* [Citizens] - проект, выполненный в качестве тестового задания.
-* [Dictaphone] - еще один проект, выполненный в качестве тестового задания.
+#### Pet-проекты
+* [Notes Mini] - приложение для создания заметок.
 
 [Notes mini]: https://github.com/Loskon/android-notes-mini
+
+#### Тестовые проекты
+* [Citizens] - Приложение для получения сгенерированного списка граждан.
+* [Dictaphone] - диктофон с использованием кодека G711.u (PCM-ulaw).
+
+
 [Citizens]: https://github.com/Loskon/android-citizens
 [Dictaphone]: https://github.com/Loskon/android-dictaphone
 
