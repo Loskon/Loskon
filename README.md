@@ -10,7 +10,7 @@
 
 #### Тестовые проекты
 * [Citizens] - приложение для получения сгенерированного списка граждан.
-* [Dictaphone] - диктофон с использованием кодека G711.u (PCM-ulaw).
+* [Dictaphone] - диктофон с использованием кодека G.711.u (PCM-ulaw).
 
 
 [Citizens]: https://github.com/Loskon/android-citizens
