@@ -9,11 +9,11 @@
 [Notes mini]: https://github.com/Loskon/android-notes-mini
 
 #### Тестовые проекты
-* [Citizens] - приложение для получения сгенерированного списка граждан.
-* [Dictaphone] - диктофон с использованием кодека G.711.u (PCM-ulaw).
+* [Горожане] - приложение для получения сгенерированного списка граждан.
+* [Диктофон] - диктофон с использованием кодека G.711.u (PCM-ulaw).
 
-[Citizens]: https://github.com/Loskon/android-citizens
-[Dictaphone]: https://github.com/Loskon/android-dictaphone
+[Горожане]: https://github.com/Loskon/android-citizens
+[Диктофон]: https://github.com/Loskon/android-dictaphone
 
 #### Тренировочные проекты
 * [Characters] - приложение для получения списка персонажей из вселенной Гарри Поттера с сервера.
