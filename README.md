@@ -16,7 +16,7 @@
 [Диктофон]: https://github.com/Loskon/android-dictaphone
 
 #### Тренировочные проекты
-* [Characters] - приложение для получения списка персонажей по вселенной Гарри Поттера из сети.
+* [Characters] - приложение для получения списка персонажей по вселенной Гарри Поттера с сервера.
 
 [Characters]: https://github.com/Loskon/android-harry-potter-api-client
 
