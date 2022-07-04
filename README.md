@@ -4,7 +4,7 @@
 ***
 
 #### Pet-проекты
-* [Notes Mini] - приложение для создания заметок.
+* [Notes Mini] - приложение для заметок.
 
 [Notes mini]: https://github.com/Loskon/android-notes-mini
 
