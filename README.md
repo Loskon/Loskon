@@ -1,11 +1,13 @@
 ## Всем привет!
 
-Меня зовут Андрей и я являюсь android разработчиком.
+Меня зовут Андрей и я являюсь Android разработчиком.
 ***
 
 #### Pet-проекты
-* [Notes Mini] - приложение для заметок.
+* [GitHub] - приложение для просмотра списка пользователей GitHub.
+* [Notes Mini] - приложение для заметок, выложенное в Google Play.
 
+[GitHub]: https://github.com/Loskon/android-github-api
 [Notes mini]: https://github.com/Loskon/android-notes-mini
 
 #### Тестовые проекты
@@ -14,11 +16,6 @@
 
 [Горожане]: https://github.com/Loskon/android-citizens
 [Диктофон]: https://github.com/Loskon/android-dictaphone
-
-#### Тренировочные проекты
-* [Characters] - приложение для получения списка персонажей по вселенной Гарри Поттера с сервера.
-
-[Characters]: https://github.com/Loskon/android-harry-potter-api-client
 
 ***
 
